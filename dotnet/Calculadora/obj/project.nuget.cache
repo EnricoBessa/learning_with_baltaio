@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/jFsjd12VVRZvzhe4utwObEOV3AkWdD5jEFQ6XSTNtcQg6P0MUqqn20bhDoYMZpIHO+GfArWNqgpsdxxYnrqUQ==",
+  "dgSpecHash": "CP8gzPw3CAHvUPDZyyYZfDzz9zBqEH7P0KF2s5XDJe6GrChFEOxYBlT6YmpzChz6Is5LZxJrHpqlyaPeI3oDyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\enric\\Documents\\programação\\dotnet\\Calculadora\\Calculadora.csproj",
+  "projectFilePath": "C:\\Users\\enric\\Documents\\programação\\learning_with_baltaio\\dotnet\\Calculadora\\Calculadora.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

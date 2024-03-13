@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enric\\Documents\\programação\\dotnet\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\enric\\Documents\\programação\\learning_with_baltaio\\dotnet\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enric\\Documents\\programação\\dotnet\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\enric\\Documents\\programação\\learning_with_baltaio\\dotnet\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enric\\Documents\\programação\\dotnet\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\enric\\Documents\\programação\\learning_with_baltaio\\dotnet\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\enric\\Documents\\programação\\dotnet\\Calculadora\\Calculadora.csproj",
+        "projectPath": "C:\\Users\\enric\\Documents\\programação\\learning_with_baltaio\\dotnet\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\enric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enric\\Documents\\programação\\dotnet\\Calculadora\\obj\\",
+        "outputPath": "C:\\Users\\enric\\Documents\\programação\\learning_with_baltaio\\dotnet\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\enric\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enric\\Documents\\programação\\learning_with_baltaio\\dotnet\\MeuApp\\MeuApp.csproj": {}
+    "C:\\Users\\enric\\Documents\\programação\\learning_with_baltaio\\dotnet\\Stopwatch\\Stopwatch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enric\\Documents\\programação\\learning_with_baltaio\\dotnet\\MeuApp\\MeuApp.csproj": {
+    "C:\\Users\\enric\\Documents\\programação\\learning_with_baltaio\\dotnet\\Stopwatch\\Stopwatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enric\\Documents\\programação\\learning_with_baltaio\\dotnet\\MeuApp\\MeuApp.csproj",
-        "projectName": "MeuApp",
-        "projectPath": "C:\\Users\\enric\\Documents\\programação\\learning_with_baltaio\\dotnet\\MeuApp\\MeuApp.csproj",
+        "projectUniqueName": "C:\\Users\\enric\\Documents\\programação\\learning_with_baltaio\\dotnet\\Stopwatch\\Stopwatch.csproj",
+        "projectName": "Stopwatch",
+        "projectPath": "C:\\Users\\enric\\Documents\\programação\\learning_with_baltaio\\dotnet\\Stopwatch\\Stopwatch.csproj",
         "packagesPath": "C:\\Users\\enric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enric\\Documents\\programação\\learning_with_baltaio\\dotnet\\MeuApp\\obj\\",
+        "outputPath": "C:\\Users\\enric\\Documents\\programação\\learning_with_baltaio\\dotnet\\Stopwatch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\enric\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -3,20 +3,39 @@ namespace Calculadora
 {
     class Program
     {
-        static void Main(string[] agrs)
+        static void Main(string[] args)
         {
-            Console.WriteLine("------ SOMA ------");
-            Soma();
-            Console.WriteLine("------ SUBTRACAO ------");
-            Subtracao();
-            Console.WriteLine("------ MULTIPLICACAO ------");
-            Multiplicacao();
-            Console.WriteLine("------ DIVISAO ------");
-            Divisao();
+            Menu();
+        }
+
+        static void Menu()
+        {
+            Console.WriteLine("Digite com letras minusculas qual operecao vc deseja realizar (soma, subtracao, multiplicacao ou divisao)");
+            string resposta = Console.ReadLine();
+            switch (resposta)
+            {
+                case "soma":
+                    Soma();
+                    break;
+                case "subtracao":
+                    Subtracao();
+                    break;
+                case "multiplicacao":
+                    Multiplicacao();
+                    break;
+                case "divisao":
+                    Divisao();
+                    break;
+                default:
+                    Console.WriteLine("Digite a resposta da mesma maneira que esta no parentese");
+                    Menu();
+                    break;
+            }
         }
 
         static void Soma()
         {
+            Console.WriteLine("------ SOMA ------");
             Console.WriteLine("Primeiro valor: ");
             float valor1 = float.Parse(Console.ReadLine());
             Console.WriteLine("Segundo valor: ");
@@ -28,6 +47,7 @@ namespace Calculadora
         }
         static void Subtracao()
         {
+            Console.WriteLine("------ SUBTRACAO ------");
             Console.WriteLine("Primeiro valor: ");
             float valor1 = float.Parse(Console.ReadLine());
             Console.WriteLine("Segundo valor: ");
@@ -39,6 +59,7 @@ namespace Calculadora
         }
         static void Multiplicacao()
         {
+            Console.WriteLine("------ MULTIPLICACAO ------");
             Console.WriteLine("Primeiro valor: ");
             float valor1 = float.Parse(Console.ReadLine());
             Console.WriteLine("Segundo valor: ");
@@ -50,6 +71,7 @@ namespace Calculadora
         }
         static void Divisao()
         {
+            Console.WriteLine("------ DIVISAO ------");
             Console.WriteLine("Primeiro valor: ");
             float valor1 = float.Parse(Console.ReadLine());
             Console.WriteLine("Segundo valor: ");
