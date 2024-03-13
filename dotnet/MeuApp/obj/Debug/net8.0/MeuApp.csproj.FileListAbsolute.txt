@@ -1,0 +1,14 @@
+C:\Users\enric\Documents\programação\dotnet\MeuApp\bin\Debug\net8.0\MeuApp.exe
+C:\Users\enric\Documents\programação\dotnet\MeuApp\bin\Debug\net8.0\MeuApp.deps.json
+C:\Users\enric\Documents\programação\dotnet\MeuApp\bin\Debug\net8.0\MeuApp.runtimeconfig.json
+C:\Users\enric\Documents\programação\dotnet\MeuApp\bin\Debug\net8.0\MeuApp.dll
+C:\Users\enric\Documents\programação\dotnet\MeuApp\bin\Debug\net8.0\MeuApp.pdb
+C:\Users\enric\Documents\programação\dotnet\MeuApp\obj\Debug\net8.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enric\Documents\programação\dotnet\MeuApp\obj\Debug\net8.0\MeuApp.AssemblyInfoInputs.cache
+C:\Users\enric\Documents\programação\dotnet\MeuApp\obj\Debug\net8.0\MeuApp.AssemblyInfo.cs
+C:\Users\enric\Documents\programação\dotnet\MeuApp\obj\Debug\net8.0\MeuApp.csproj.CoreCompileInputs.cache
+C:\Users\enric\Documents\programação\dotnet\MeuApp\obj\Debug\net8.0\MeuApp.dll
+C:\Users\enric\Documents\programação\dotnet\MeuApp\obj\Debug\net8.0\refint\MeuApp.dll
+C:\Users\enric\Documents\programação\dotnet\MeuApp\obj\Debug\net8.0\MeuApp.pdb
+C:\Users\enric\Documents\programação\dotnet\MeuApp\obj\Debug\net8.0\MeuApp.genruntimeconfig.cache
+C:\Users\enric\Documents\programação\dotnet\MeuApp\obj\Debug\net8.0\ref\MeuApp.dll
